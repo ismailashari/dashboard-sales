@@ -31,6 +31,6 @@ Datamart contains base table and aggregate tables that I got the data from 6 raw
   4. Total revenue and product sold each regions.
 
 Here is a screenschot of my dashboard using Google Looker Studio
-![alt_text](dashboard_ss.png)
+![alt_text](dashboard_ss.jpg)
 
 For the final dashboard you can see it [here](https://lookerstudio.google.com/reporting/f962dff8-920a-4c45-a3c8-d32dabb302fc)
